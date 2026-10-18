@@ -83,9 +83,17 @@ Busco transformar meus conhecimentos em projetos práticos, com atenção à org
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
       </p>
-      <a href="https://github.com/Viniccius-Albuquerque/Academia_Sistem">
-        <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório">
-      </a>
+      <p>
+        <a href="https://academiasistem.netlify.app">
+          <img src="https://img.shields.io/badge/Acessar%20aplica%C3%A7%C3%A3o-0A7E52?style=for-the-badge&logo=netlify&logoColor=white" alt="Acessar aplicação">
+        </a>
+        <a href="https://academia-sistem.onrender.com/docs">
+          <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o%20da%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Documentação da API">
+        </a>
+        <a href="https://github.com/Viniccius-Albuquerque/Academia_Sistem">
+          <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
