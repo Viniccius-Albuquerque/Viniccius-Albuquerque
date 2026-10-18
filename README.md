@@ -77,22 +77,17 @@ Busco transformar meus conhecimentos em projetos práticos, com atenção à org
   <tr>
     <td>
       <h3>Academia Sistem</h3>
-      <p>Sistema de gerenciamento de academia desenvolvido em Python, com persistência de dados em PostgreSQL.</p>
+      <p>Sistema web para gerenciamento de alunos, treinos e exercícios, desenvolvido com Python, FastAPI e PostgreSQL. O projeto conta com frontend próprio e API REST publicada.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       </p>
       <p>
-        <a href="https://academiasistem.netlify.app">
-          <img src="https://img.shields.io/badge/Acessar%20aplica%C3%A7%C3%A3o-0A7E52?style=for-the-badge&logo=netlify&logoColor=white" alt="Acessar aplicação">
-        </a>
-        <a href="https://academia-sistem.onrender.com/docs">
-          <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o%20da%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Documentação da API">
-        </a>
-        <a href="https://github.com/Viniccius-Albuquerque/Academia_Sistem">
-          <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório">
-        </a>
+        <a href="https://academiasistem.netlify.app">Acessar aplicação</a> |
+        <a href="https://academia-sistem.onrender.com/docs">Documentação da API</a> |
+        <a href="https://github.com/Viniccius-Albuquerque/Academia_Sistem">Código-fonte</a>
       </p>
     </td>
   </tr>
